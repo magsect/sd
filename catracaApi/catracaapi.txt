@@ -1,0 +1,4 @@
+Consiste em um sistema de catraca para empresas
+onde a catraca é o listener que tem um receptor que recebe o sinal do crachá por rfid
+com a aproximação capturando o id do crachá associação com cada employee atualizando 
+a data de entrada e saida do funcionario
